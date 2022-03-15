@@ -39,7 +39,7 @@ import sys
 # from keep_alive import keep_alive
 
 # Global Variabels
-TOKEN = "OTUyMjEyNjk2MTM1MjY2Mzg1.YiyvLg.1Qswwdtz8-aQRRw-VULdB1VPhzc"
+TOKEN = "TOKEN"
 client = discord.Client()
 bot = commands.Bot (command_prefix="*")
 bot.remove_command("help")
